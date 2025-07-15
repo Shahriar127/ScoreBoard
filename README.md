@@ -3,9 +3,6 @@
 Welcome to **ScoreBoard**!  
 This project is a simple, beginner-friendly scoreboard application built with HTML and JavaScript. The goal of this repository is to help me learn JavaScript and practice web development fundamentals.
 
-## Demo
-
-> _A live demo or screenshots can be added here if available._
 
 ## Features
 
